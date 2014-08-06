@@ -1,7 +1,7 @@
 <h2>Things to do</h2>
 
 <ul>
-	<li><strong>IRC</strong> &mdash; Join #coloradosprings.js on Freenode (irc.freenode.net) or use our <a href"/irc">web client</a></li>
+	<li><strong>IRC</strong> &mdash; Join #coloradosprings.js on Freenode (irc.freenode.net) or use our <a href="/irc">web client</a></li>
 	<li><strong>Come to our next meetup</strong> &mdash; Check the <a href="http://www.meetup.com/coloradospringsjs/">meetup site</a> for details</li>
 </ul>
 
