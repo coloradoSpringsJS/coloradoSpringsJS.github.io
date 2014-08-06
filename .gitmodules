@@ -1,0 +1,3 @@
+[submodule "subway"]
+	path = subway
+	url = https://github.com/thedjpetersen/subway.git
