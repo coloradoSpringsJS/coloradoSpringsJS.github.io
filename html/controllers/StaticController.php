@@ -5,4 +5,9 @@ class StaticController extends Pails\Controller
 	{
 		//Do nothing
 	}
+
+	function irc()
+	{
+		//Do nothing
+	}
 }
