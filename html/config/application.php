@@ -15,7 +15,7 @@ $CONNECTION_STRINGS = array(
 	);
 
 $ROUTES = array(
-	'irc' => array('static', false),
+	'irc' => array('static', 'irc'),
 	'*' => array(
 		false,
 		false
