@@ -3,3 +3,8 @@
       <a href="/"><img style="width: 100%" src="/img/logo.png" alt="{{ site.title }}"/></a>
     </div>
   </header>
+
+  <ul class="nav nav-tabs">
+    <li {% if page.url == "/index.html" %}class="active"{% endif %}><a href="/">Posts</a></li>
+    <li {% if page.url == "/chat.html" %}class="active"{% endif %}><a href="/chat.html">Chat</a></li>
+  </ul>
