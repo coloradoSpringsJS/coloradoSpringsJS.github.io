@@ -1,0 +1,43 @@
+          <div class="sidebar-module sidebar-module-inset"
+              data-ng-controller="MemberCtrl">
+
+            {% raw %}
+            <h4>Our Members (<span data-ng-bind="members.meta.count"></span>)</h4>
+            <div class="row members">
+              <span class="col-xs-6 col-md-3"
+                data-ng-repeat="member in members.results"
+                data-ng-if="member.photo.thumb_link">
+                <a href="{{member.link}}" class="thumbnail" style="display:block; background-image:url({{member.photo.thumb_link}})">
+                  <img alt="{{member.name}}" src="/img/blank.gif">
+                </a>
+              </span>
+            </div>
+            {% endraw %}
+
+            <h4>Our Sponsors</h4>
+            <div class="row sponsors">
+              <ul class="list-group text-center sponsor-list">
+                <li class="list-group-item">
+                  <a href="http://lullabot.com">
+                    <img src="http://photos2.meetupstatic.com/photos/sponsor/9/e/c/2/iab120x90_2140642.jpeg">
+                  </a>
+                </li>
+                <li class="list-group-item">
+                  <a href="http://atendesigngroup.com">
+                    <img src="http://photos1.meetupstatic.com/photos/sponsor/8/b/8/iab120x90_2162232.jpeg">
+                  </a>
+                </li>
+                <li class="list-group-item">
+                  <a href="http://shutterstock.com">
+                    <img src="http://photos4.meetupstatic.com/photos/sponsor/9/a/e/4/iab120x90_2259652.jpeg">
+                  </a>
+                </li>
+                <li class="list-group-item">
+                  <a href="http://synapsesoftware.com">
+                    <img src="http://resources.synapsesoftware.net/logos/synapse-software.png">
+                  </a>
+                </li>
+              </ul>
+            </div>
+
+          </div>
