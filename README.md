@@ -1,6 +1,6 @@
 # Official Site of the Colorado Springs JavaScript User Group
 
-This is a [Jekyll]() site which is hosted on GitHub Pages.
+This is a [Jekyll](http://jekyllrb.com/) site which is hosted on GitHub Pages.
 
 To make changes, you can clone this repository and after installing Jekyll, just run it through and play with it locally. You can fork this repo and send us pull requests.
 
