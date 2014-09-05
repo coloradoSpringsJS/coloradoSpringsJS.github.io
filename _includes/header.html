@@ -7,5 +7,14 @@
   <ul class="nav nav-tabs">
     <li {% if page.url == "/index.html" %}class="active"{% endif %}><a href="/">Posts</a></li>
     <li {% if page.url == "/chat.html" %}class="active"{% endif %}><a href="/chat.html">Chat</a></li>
-    <li {% if page.url == "/wiki.html" %}class="active"{% endif %}><a href="/wiki.html">Wiki</a></li>
+    <li class="dropdown {% if page.url == '/wiki.html' %}active{% endif %}">
+      <a id="dropwiki" class="dropdown-toggle" data-toggle="dropdown" data-target="#" href="#">
+        Wiki <span class="caret"></span>
+      </a>
+      <ul class="dropdown-menu" role="menu" aria-labelledby="dropwiki">
+        <li role="presentation"><a role="menuitem" href="wiki-things.html">Things</a></li>
+        <li role="presentation"><a role="menuitem" href="wiki-learn.html">Learn</a></li>
+        <li role="presentation"><a role="menuitem" href="wiki-org.html">Organization</a></li>
+      </ul>
+    </li>
   </ul>
