@@ -12,4 +12,4 @@ We'll talk a little bit about what task runners are and how they are useful (spo
 ---
 * Location: [Epicentral](http://maps.google.com/maps?f=q&hl=en&q=415+North+Tejon%2C+Colorado+Springs%2C+CO%2C+us)
 * Slides: 
-* Code: https://github.com/coloradoSpringsJS/task-runners-examples
+* Code: [https://github.com/coloradoSpringsJS/task-runners-examples]()
