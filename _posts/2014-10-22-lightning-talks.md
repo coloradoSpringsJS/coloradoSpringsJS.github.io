@@ -9,7 +9,13 @@ Topics ranged greatly at this meetup and it was a great to meet some new folks a
 
 Links from some of the topics:
 
-
+* [DevChat.tv](http://devchat.tv/js-jabber/) podcast
+* [ReSharper](http://www.jetbrains.com/resharper/download/) JS refactoring tool
+* [HabitRPG](https://habitrpg.com) gamified task lists in AngularJS
+* [Foundation HTML5 Animation with JavaScript](https://lamberta.github.io/html5-animation/) book
+* [three.js](http://threejs.org/) webgl implemented through JavaScript
+* [d3.js](http://d3js.org/) 3d charts in JavaScript
+* [Famo.us](http://famo.us/) web dev platform
 
 ---
 * Location: [Epicentral](http://maps.google.com/maps?f=q&hl=en&q=415+North+Tejon%2C+Colorado+Springs%2C+CO%2C+us)
