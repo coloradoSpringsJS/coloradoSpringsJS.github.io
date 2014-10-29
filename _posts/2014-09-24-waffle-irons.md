@@ -5,7 +5,7 @@ date:   2014-09-24 18:00:00
 categories: meetup express swig mongoose mocha sinon chai nodejs
 ---
 
-This months was a discussion lead by [Barry (Baz) O'Mahoney](http://www.meetup.com/coloradospringsjs/members/8806516) on some basic NodeJS tools to use in development and production. 
+This months was a discussion lead by [Barry (Baz) O'Mahony](http://www.meetup.com/coloradospringsjs/members/8806516) on some basic NodeJS tools to use in development and production. 
 
 A soup to nuts look at building a simple web application and supporting API using
 
